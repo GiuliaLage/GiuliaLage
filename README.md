@@ -24,7 +24,7 @@
   
   <h4> 🤔 Estudando / Interesse </h4> 
   
-   - Next.
+   - Nextjs.
    - Aprofundar em arquitetura e padrões de projeto  
    - Micro frontends.
    - Testes no front .
