@@ -35,5 +35,5 @@
    
    <h4> 👽 Contato </h4
    
-   - <a href="https://www.linkedin.com/in/giulia-lage-bb0904118/" target="_blank">linkedin </a>
+   - <a href="https://www.linkedin.com/in/giulia-lage-bb0904118/" target="_blank">Linkedin </a>
   
