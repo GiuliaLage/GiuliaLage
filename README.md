@@ -11,28 +11,11 @@
  
  <h4> ⛳ Atualmente </h4> 
  
- - 💜 Desenvolvedora fullstack na u4crypto.
+ - 💜 Desenvolvedora fullstack na pay2free.
  - 🎨 Ionic/Angular e React.
  - 🏗️ Nodejs.
   ##
- 
-  <h4> ✨ Tenho conhecimento / Já me aventurei e faria de novo</h4> 
-  
-  - 🎨 Vuejs e React-native.
-  - 🏗️ Nestjs.
-   ##
-  
-  <h4> 🤔 Estudando / Interesse </h4> 
-  
-   - Nextjs.
-   - Aprofundar em arquitetura e padrões de projeto  
-   - Micro frontends.
-   - Testes no front .
-   - SonarQube.
-   - Aprofundar no desenvolvimento mobile.
-   - Flutter. 
-   ##
-   
+    
    <h4> 👽 Contato </h4
    
    - <a href="https://www.linkedin.com/in/giulia-lage-bb0904118/" target="_blank">Linkedin </a>
