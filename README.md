@@ -9,12 +9,6 @@
 - 📕 Graduada em Sistemas de Informação.
  ##
  
- <h4> ⛳ Atualmente </h4> 
- 
- - 💜 Desenvolvedora fullstack na pay2free.
- - 🎨 Ionic/Angular e React.
- - 🏗️ Nodejs.
-  ##
     
    <h4> 👽 Contato </h4
    
